@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Publications"
+    url: /publications/    
+
+  - title: "Teaching"
+    url: /teaching/
+
 <!---
   - title: "CV"
     url: /files/KunkeJess_Resume.pdf    
@@ -23,6 +29,8 @@ main:
     url: /resources/
 --->
 
+
+<!--- original
   - title: "Publications"
     url: /publications/
 
@@ -43,5 +51,5 @@ main:
     
   - title: "Guide"
     url: /markdown/
-
+--->
 
