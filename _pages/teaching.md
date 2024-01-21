@@ -8,8 +8,8 @@ author_profile: true
 ## University of Washington
 
 - Predoctoral instructor, STAT 394 Probability Theory I, Summer 2022
-- Instructor, Math Camp, Center for Statistics and the Social Sciences (CSSS), Summer 2023
-- Instructor, Math Camp, CSSS, Summer 2022
+- Instructor, Math Camp, Center for Statistics and the Social Sciences (CSSS), Summer 2023 [(webpage)](https://jpierkunke.github.io/CSSS-Math-Camp-2023/)
+- Instructor, Math Camp, CSSS, Summer 2022 [(webpage)](https://jpierkunke.github.io/CSSS-Math-Camp-2022/)
 - Teaching assistant, CSSS 567 Statistical Analysis of Social Networks, Fall 2021
 - Reader/Grader with office hours, FISH 454 Ecological Modeling, Fall 2021
 - Teaching assistant, Math Camp, CSSS, Summer 2021
