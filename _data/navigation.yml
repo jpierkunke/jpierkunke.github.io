@@ -6,50 +6,25 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-<!---
-  - title: "CV"
-    url: /files/KunkeJess_Resume.pdf    
-    
-  - title: "Research"
-    url: /research/
+#  - title: "CV"
+#    url: /files/KunkeJess_Resume.pdf    
+#    
+#  - title: "Research"
+#    url: /research/
+#
+#  - title: "Publications"
+#    url: /publications/    
+#
+#  - title: "Teaching"
+#    url: /teaching/
+#        
+#  - title: "Consulting"
+#    url: /consulting/
+#    
+#  - title: "Community"
+#    url: /community/
+#    
+#  - title: "More resources"
+#    url: /resources/
 
-  - title: "Publications"
-    url: /publications/    
-
-  - title: "Teaching"
-    url: /teaching/
-        
-  - title: "Consulting"
-    url: /consulting/
-    
-  - title: "Community"
-    url: /community/
-    
-  - title: "More resources"
-    url: /resources/
---->
-
-
-<!--- original
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
---->
 
