@@ -6,25 +6,25 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-#  - title: "CV"
-#    url: /files/KunkeJess_Resume.pdf    
-#    
-#  - title: "Research"
-#    url: /research/
-#
-#  - title: "Publications"
-#    url: /publications/    
-#
-#  - title: "Teaching"
-#    url: /teaching/
-#        
-#  - title: "Consulting"
-#    url: /consulting/
-#    
-#  - title: "Community"
-#    url: /community/
-#    
-#  - title: "More resources"
-#    url: /resources/
+  - title: "CV"
+    url: /files/KunkeJess_Resume.pdf    
+    
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/    
+
+  - title: "Teaching"
+    url: /teaching/
+        
+  - title: "Consulting"
+    url: /consulting/
+    
+  - title: "Community"
+    url: /community/
+    
+  - title: "More resources"
+    url: /resources/
 
 
