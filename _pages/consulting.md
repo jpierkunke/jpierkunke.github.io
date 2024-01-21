@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Consulting"
+permalink: /consulting/
 author_profile: true
 ---
 
