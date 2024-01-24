@@ -13,10 +13,10 @@ author_profile: true
 ## Statistics Department Service, University of Washington
 
 - Founder and organizer, interdepartmental crafting group, 2022-present
-- Revive and organize weekly Department Tea Time, 2023-present
-- Co-leader, Statisticians and Biostatisticians of Underrepresented Genders, 2023-2024 AY
-- Graduate Student Representative, 2022-2023 AY: Plan and lead orientation and visit day, serve as liason between students and faculty/department, gather systematic student feedback, organize social events and peer mentorship, increase connections to other UW departments
-- [Peer Application Review Service (PARS)](https://stat.uw.edu/pre-application-review-service), Fall 2022: Review and provide feedback on mentees’ graduate school application materials before they apply (open to anyone applying for statistics graduate programs, not just at UW)
+- Revive and organize weekly department tea time, 2023-present
+- Co-leader, Statisticians and Biostatisticians of Underrepresented Genders (SBUG), 2023-2024 AY
+- Graduate student representative, 2022-2023 AY: Plan and lead orientation and visit day, serve as liason between students and faculty/department, gather systematic student feedback, organize social events and peer mentorship, increase connections to other UW departments
+- Participant, [Peer Application Review Service (PARS)](https://stat.uw.edu/pre-application-review-service), Fall 2022: Review and provide feedback on mentees’ graduate school application materials before they apply (open to anyone applying for statistics graduate programs, not just at UW)
 
 <!---
 - Assemble and/or participate in multiple student subcommittees to provide feedback on department job applicants
