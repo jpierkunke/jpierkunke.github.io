@@ -1,24 +1,24 @@
 # main links links
 main:
-#  - title: "CV"
-#    url: /files/KunkeJess_CV.pdf    
-#    
-#  - title: "Research"
-#    url: /research/
-#
-#  - title: "Publications"
-#    url: /publications/    
-#
+  - title: "CV"
+    url: /files/KunkeJess_CV.pdf    
+    
+  - title: "Research"
+    url: /research/
+
+  - title: "Publications"
+    url: /publications/    
+
   - title: "Teaching"
     url: /teaching/
         
-#  - title: "Consulting"
-#    url: /consulting/
-#    
-#  - title: "Community"
-#    url: /community/
-#    
-#  - title: "More resources"
-#    url: /resources/
+  - title: "Consulting"
+    url: /consulting/
+    
+  - title: "Community"
+    url: /community/
+    
+  - title: "More resources"
+    url: /resources/
 
 
