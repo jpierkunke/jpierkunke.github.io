@@ -27,3 +27,12 @@ One of my key roles is to help students become more self-directed learners, whic
 - Python for ecologists supporting instructor, Stony Brook University, Oct 2021
 - R/R Markdown workshop co-instructor, ITEP, Nov 2020
 <!--- [(webpage)](https://marwahaha.github.io/2020-11-04-ITEP-online/) --->
+
+## Primary and Secondary Education
+
+- STEM teacher, Fusion Academy, Evanston, IL, 2017-2018 AY
+- Full-time in-school math tutor, Bogan High School/SAGA Innovations, Chicago, IL, 2016-2017 AY
+- Integrated science instructor, Center for Talent Development/Northwestern University, Evanston, IL, 2010-2012
+    - Taught advanced middle-school students biology, physics, and chemistry at a high-school and sometimes college level
+    - Created the curricula, homework, and assessments
+    - Designed and taught a free exploratory calculus summer course in response to student interest
