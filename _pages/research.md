@@ -22,5 +22,5 @@ Accepted for publication 2024 Jan 9 in Sociological Methodology; [preprint avail
 - Panel proposer and chair, Women in Statistics and Data Science (WSDS) 2023, Bellevue, WA, "Frontiers, challenges and progress in human trafficking-related statistics"
 - Poster, JSM 2023, Toronto, Canada, "Network scale-up model (NSUM) estimators: Is the average of ratios or ratio of averages more robust?"
 - Talk, JSM 2022, Washington, DC, "Average of ratios or ratio of averages? Revisiting simple network scale-up estimators"
-- Talk, University of Chicago Environmental Data Science Lunch Series, June 2022, Introduction to causal inference for environmental applications
+- Talk, University of Chicago Environmental Data Science Lunch Series, June 2022, "Introduction to causal inference for environmental applications"
 - Talk, Chicago-Area SIAM Student Conference 2020, "A nonstationary Gaussian process model for forecasting solar irradiance at Earth's surface" (MS thesis)
