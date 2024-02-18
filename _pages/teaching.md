@@ -23,10 +23,11 @@ One of my key roles is to help students become more self-directed learners, whic
 
 ## Coding and statistics workshops
 
-- R/R Markdown workshop co-instructor, Data Carpentries, Tribal Network Exchange (TXG) and Northern Arizona University Institute for Tribal Professionals (NAU-ITEP), 2021
-- Python for ecologists supporting instructor, Stony Brook University, Oct 2021
-- R/R Markdown workshop co-instructor, Data Carpentries, Tribal Network Exchange (TXG) and Northern Arizona University Institute for Tribal Professionals (NAU-ITEP), Nov 2020
-- Statistics for early-career researchers, University of Chicago, Sep 2019
+- Co-instructor, R workshop, Tribal Network Exchange (TXG) and Northern Arizona University Institute for Tribal Professionals (NAU-ITEP), July 2023
+- Co-instructor, R for Ecologists workshop, Data Carpentries, TXG and NAU-ITEP, Nov 2021
+- Supporting instructor, Python for Ecologists, Stony Brook University, Oct 2021
+- Co-instructor, R for Ecologists workshop, Data Carpentries, TXG and NAU-ITEP, Nov 2020
+- Co-instructor, Statistics for early-career researchers, University of Chicago, Sep 2019
 <!--- [(webpage)](https://marwahaha.github.io/2020-11-04-ITEP-online/) --->
 
 ## Primary and Secondary Education
