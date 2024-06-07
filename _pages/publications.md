@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Kunke, J.P.**, I. Laga, X. Niu, T.H. McCormick, Comparing the Robustness of Simple Network Scale-Up Method (NSUM) Estimators.
-Accepted for publication 2024 Jan 9 in Sociological Methodology; [preprint available here.](https://doi.org/10.48550/arXiv.2303.07490)
+- **Kunke, J.P.**, I. Laga, X. Niu, T.H. McCormick (2024), Comparing the Robustness of Simple Network Scale-Up Method (NSUM) Estimators. Sociological Methodology, 0(0). https://doi.org/10.1177/00811750241242791
 
 - Laga, I., **J.P. Kunke**, T.H. McCormick, X. Niu, The Role of Scaling and Estimating the Degree Ratio in the Network Scale-up Method. [Preprint.](https://doi.org/10.48550/arXiv.2305.04381)
 
