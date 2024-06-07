@@ -7,10 +7,9 @@ author_profile: true
 
 ## Publications
 
-- Laga, I., **J.P. Kunke**, T.H. McCormick, X. Niu, The Role of Scaling and Estimating the Degree Ratio in the Network Scale-up Method. [Preprint.](https://doi.org/10.48550/arXiv.2305.04381)
+- **Kunke, J.P.**, I. Laga, X. Niu, T.H. McCormick (2024), Comparing the Robustness of Simple Network Scale-Up Method (NSUM) Estimators. Sociological Methodology, 0(0). https://doi.org/10.1177/00811750241242791
 
-- **Kunke, J.P.**, I. Laga, X. Niu, T.H. McCormick, Comparing the Robustness of Simple Network Scale-Up Method (NSUM) Estimators.
-Accepted for publication 2024 Jan 9 in Sociological Methodology; [preprint available here.](https://doi.org/10.48550/arXiv.2303.07490)
+- Laga, I., **J.P. Kunke**, T.H. McCormick, X. Niu, The Role of Scaling and Estimating the Degree Ratio in the Network Scale-up Method. [Preprint.](https://doi.org/10.48550/arXiv.2305.04381)
 
 - **Kunke, J.P.**, A. Visokay, T.H. McCormick (2023), Respondent-Driven Sampling: An Overview in the Context of Human Trafficking, CHANCE, 36:4, 15-21, [DOI: 10.1080/09332480.2023.2290949](https://doi.org/10.1080/09332480.2023.2290949).
 
