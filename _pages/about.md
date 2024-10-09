@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome!  My name is Jess Kunke and I am a Ph.D. candidate in the Department of Statistics at the University of Washington in Seattle, advised by [Tyler H. McCormick](https://thmccormick.github.io/).
 
-My research interests are in survey methods, network models, and spatiotemporal processes with environmental and social applications.  I am passionate about teaching, consulting, and mentoring.
+My research interests are in survey methods, network models, and spatiotemporal processes with environmental and social applications.  I am also passionate about teaching, consulting, and mentoring.
 
 ![These giant leaves fall in the UW Seattle quad](/images/BigLeaf_square.jpg){: .align-right width="190px"}
 
