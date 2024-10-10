@@ -13,6 +13,9 @@ One of my key roles is to help students become more self-directed learners, whic
 
 ## University of Washington
 
+- Predoctoral instructor, CSSS 508 Intro to R for the Social Sciences, Fall 2024 [(webpage)](https://csss.uw.edu/academics/math-camp/math-camp-schedule)
+- Instructor, Math Camp, Center for Statistics and the Social Sciences (CSSS), Summer 2024 [(webpage)](https://csss.uw.edu/academics/math-camp/math-camp-schedule)
+- Predoctoral instructor, STAT 302 Statistical Computing, Summer 2024
 - Predoctoral instructor, STAT 394 Probability Theory I, Summer 2022 [(webpage)](https://jpierkunke.github.io/STAT394A/)
 - Instructor, Math Camp, Center for Statistics and the Social Sciences (CSSS), Summer 2023 [(webpage)](https://jpierkunke.github.io/CSSS-Math-Camp-2023/)
 - Instructor, Math Camp, CSSS, Summer 2022 [(webpage)](https://jpierkunke.github.io/CSSS-Math-Camp-2022/)
