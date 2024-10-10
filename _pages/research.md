@@ -17,6 +17,7 @@ author_profile: true
 
 ## Presentations
 
+- **Poster, ENVR Workshop 2024**, Boulder CO, "Scalable spatial stream network models"
 - **Talk, Joint Statistical Meetings (JSM) 2024**, Portland, OR, "Comparing the robustness of simple network scale-up method (NSUM) estimators"
 - **Panel proposer and chair, Women in Statistics and Data Science (WSDS) 2023**, Bellevue, WA, "Frontiers, challenges and progress in human trafficking-related statistics"
 - **Poster, JSM 2023**, Toronto, Canada, "Network scale-up model (NSUM) estimators: Is the average of ratios or ratio of averages more robust?"
