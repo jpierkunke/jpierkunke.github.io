@@ -34,6 +34,10 @@ One of my key roles is to help students become more self-directed learners, whic
 - Co-instructor, Statistics for early-career researchers, University of Chicago, Sep 2019
 <!--- [(webpage)](https://marwahaha.github.io/2020-11-04-ITEP-online/) --->
 
+## Presentations
+
+- Poster, Electronic Conference on Teaching Statistics (eCOTS) 2024, Remote, "Resources for JEDI-informed statistics teaching."
+
 ## Primary and Secondary Education
 
 - STEM teacher, Fusion Academy, Evanston, IL, 2017-2018 AY
