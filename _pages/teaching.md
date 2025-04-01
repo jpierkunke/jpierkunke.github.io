@@ -13,7 +13,9 @@ One of my key roles is to help students become more self-directed learners, whic
 
 ## University of Washington
 
-- Instructor, CSSS 508 Intro to R for the Social Sciences, Fall 2024 [(webpage)](https://csss.uw.edu/academics/math-camp/math-camp-schedule)
+- Instructor, CSSS 508 Intro to R for the Social Sciences, Spring 2025 [(webpage)](https://jpierkunke.github.io/CSSS508-Spring2025/)
+- Teaching assistant, STAT 180 Introduction to Data Science, Winter 2025
+- Instructor, CSSS 508 Intro to R for the Social Sciences, Fall 2024 [(webpage)](https://jpierkunke.github.io/CSSS508-Fall2024/)
 - Instructor, Math Camp, Center for Statistics and the Social Sciences (CSSS), Summer 2024 [(webpage)](https://csss.uw.edu/academics/math-camp/math-camp-schedule)
 - Instructor, STAT 302 Statistical Computing, Summer 2024
 - Teaching assistant, STAT 559 Measure Theory, Spring 2024
