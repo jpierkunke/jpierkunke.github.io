@@ -5,6 +5,10 @@ permalink: /resources/
 author_profile: true
 ---
 
+## For MSU students
+
+[GradCat 360](https://www.montana.edu/gradschool/professionaldevelopment/index.html)
+
 ## Things I've made
 
 [Math fundamentals for measure theory students](https://github.com/jpierkunke/measure_theory_notes/tree/main): this is a brief set of notes I put together.
