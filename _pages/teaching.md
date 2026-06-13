@@ -5,13 +5,28 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I love working with students and I find teaching rewarding. Over the years, I have taught STEM classes at the middle school through undergraduate levels, served as teaching assistant for several graduate-level courses across departments, and instructed coding workshops within and outside academia. In all of these roles, I have written new curriculum materials and developed upon those materials I inherited from previous instructors.
+## Step-by-step tutorials
 
-I like to use [backward design](https://tll.mit.edu/teaching-resources/course-design/backward-design/) for overall course structure and individual lectures, and I am grateful to past mentors who introduced me to it. First I identify the key skills or concepts I want students to develop based on the curriculum objectives. Then I design or adapt the activities, content delivery, formative and summative assessments to achieve those objectives. By now I have had a fair amount of practice with this approach, and I continue to refine these methods and seek feedback.
+- [Making your first GitHub repo](https://jpierkunke.github.io/tutorials/)
+- [Making a Quarto Dashboard](https://github.com/jpierkunke/example_quarto_dashboard)
+- [Incorporating R Shiny into a Quarto Dashboard](https://github.com/jpierkunke/example_shiny_quarto_dashboard)
+- [Intro to Data Entry in Excel](https://github.com/tribalxg/ATCEM2026_Excel)
+- [GitHub A to Z](https://tribalxg.github.io/github_a2z/) (early in development)
 
-One of my key roles is to help students become more self-directed learners, which will serve them well whether they pursue graduate school or begin another job. I respond to students' questions with my own to help them break down their questions into steps; if students tell me "I don’t understand X", I ask them to talk me through what parts they understand and where they are stuck. I tell students the intention behind my questions, pointing out that they are successfully resolving them on their own with some guidance from me. Lectures are interactive with multiple problems for students to solve. I check in frequently with specific questions to assess understanding, rather than asking only yes/no or open-ended questions.
+## Examples and demos
 
-## University of Washington
+- [An example online tutorial I made using Quarto](https://github.com/jpierkunke/example_tutorial)
+
+## Montana State University courses
+
+- STAT 436 Time Series, Fall 2026
+- STAT 446 Sampling, Fall 2026
+- STAT 408 Statistical Computing, Spring 2026
+- STAT 421 Probability Theory, Fall 2025
+- STAT 446 Sampling, Fall 2025
+
+
+## University of Washington courses and workshops
 
 - Instructor, CSSS 508 Intro to R for the Social Sciences, Spring 2025 [(webpage)](https://jpierkunke.github.io/CSSS508-Spring2025/)
 - Teaching assistant, STAT 180 Introduction to Data Science, Winter 2025
@@ -27,24 +42,5 @@ One of my key roles is to help students become more self-directed learners, whic
 - Teaching assistant, Math Camp, CSSS, Summer 2021
 - Teaching assistant, CSSS 592 Applied Longitudinal Data Analysis for Social Sciences, Fall 2020
 
-## Coding and statistics workshops
 
-- Co-instructor, Advanced R Topics, Tribal Network Exchange (TXG) and Northern Arizona University Institute for Tribal Professionals (NAU-ITEP), July 2023
-- Co-instructor, R for Ecologists, Data Carpentries, TXG and NAU-ITEP, Nov 2021
-- Supporting instructor, Python for Ecologists, Stony Brook University, Oct 2021
-- Co-instructor, R for Ecologists, Data Carpentries, TXG and NAU-ITEP, Nov 2020
-- Co-instructor, Statistics for early-career researchers, University of Chicago, Sep 2019
-<!--- [(webpage)](https://marwahaha.github.io/2020-11-04-ITEP-online/) --->
 
-## Presentations
-
-- Poster, Electronic Conference on Teaching Statistics (eCOTS) 2024, Remote, "Resources for JEDI-informed statistics teaching."
-
-## Primary and Secondary Education
-
-- STEM teacher, Fusion Academy, Evanston, IL, 2017-2018 AY
-- Full-time in-school math tutor, Bogan High School/SAGA Innovations, Chicago, IL, 2016-2017 AY
-- Integrated science instructor, Center for Talent Development/Northwestern University, Evanston, IL, 2010-2012
-    - Taught advanced middle-school students biology, physics, and chemistry at a high-school and sometimes college level
-    - Created the curricula, homework, and assessments
-    - Designed and taught a free exploratory calculus summer course in response to student interest

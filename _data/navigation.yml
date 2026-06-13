@@ -6,19 +6,13 @@ main:
   - title: "Research"
     url: /research/
 
-#  - title: "Publications"
-#    url: /publications/    
-
   - title: "Teaching"
     url: /teaching/
         
-  - title: "Consulting"
-    url: /consulting/
+  - title: "Software"
+    url: /software/
     
-  - title: "Community"
-    url: /community/
-    
-  - title: "Resources for students"
+  - title: "Resources"
     url: /resources/
 
 
